@@ -27,6 +27,3 @@ Creates the database to your localserver
 
 Creates the tables
 
-### `npx sequelize-cli db:seed:all`
-
-Inserts data to the user table for testing
