@@ -1,4 +1,4 @@
-// import thr Todo model
+// import the Todo model
 const Todo = require("../models").Todo;
 
 module.exports = {
